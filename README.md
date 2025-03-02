@@ -32,7 +32,7 @@ Founder of Sourbert Software, where I develop various applications aimed at impr
 ## Connect With Me 🌍
 
 - GitHub: [ZohanHaqu](https://github.com/ZohanHaqu)
-- Email: [your.email@example.com](mailto\:your.email@example.com)
+- Email: [zohanuhaque@gmail.com](mailto\zohanuhaque@gmail.com)
 
 Feel free to explore my repositories and contribute to the projects. Let's build something amazing together! 🚀
 
